@@ -15,7 +15,7 @@
 F1-мера - 0.636058 Площадь под кривой ROC - 0.8617 Полнота - 0.697789 Точность - 0.584362
 
 Стек технологий:
-`pandas, matplotlib, numpy, seaborn, scikit-learn, imbalanced-learn`.
+`pandas`, `matplotlib`, `numpy`, `seaborn`, `scikit-learn`, `imbalanced-learn`.
 
 Статус проекта:
-Завершен.
+*Завершен*.
